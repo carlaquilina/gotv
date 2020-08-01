@@ -1,0 +1,9 @@
+# Server configurations
+server:
+  host: "localhost"
+  port: 8080
+
+# Go Credentials
+gocredentials:
+  user: "123456"
+  pass: "1234"
